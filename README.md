@@ -7,7 +7,7 @@ This is a collection of simple reinforcement learning projects for my course "In
 Implementation using numpy.
 
 * Tabular Q-learning for frozen lake
-* Tabular Q-learning for taxi (work in progress)
+* Tabular Q-learning for taxi
 
 ## Q-learning with shallow neural networks ##
 
