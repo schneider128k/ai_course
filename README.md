@@ -2,6 +2,11 @@
 
 This is a collection of simple reinforcement learning projects for my course "Introduction to Artificial Intelligence".
 
+## Simple agents ##
+
+* Random action agent for cart pole 
+* Random search for linear model agent for cart pole
+
 ## Tabular Q-learning ##
 
 Implementation using numpy.
