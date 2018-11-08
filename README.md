@@ -6,6 +6,7 @@ This is a collection of simple reinforcement learning projects for my course "In
 
 * Random action agent for cart pole 
 * Random search for linear model agent for cart pole
+* Hill climbing search for linear model agent for cart pole (not better than random search for this particular problem)
 
 ## Tabular Q-learning ##
 
