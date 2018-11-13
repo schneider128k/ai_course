@@ -9,7 +9,7 @@ This is a collection of simple reinforcement learning projects for my course "In
 ## Linear model for action selection ##
  
 * Random search for linear model agent for cart pole
-** Hill climbing search for linear model agent for cart pole (not better than random search for this particularly simple problem)
+* Hill climbing search for linear model agent for cart pole (not better than random search for this particularly simple problem)
 * Random search for liner model agent for mountain car
 
 ## Tabular Q-learning ##
