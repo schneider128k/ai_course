@@ -2,11 +2,15 @@
 
 This is a collection of simple reinforcement learning projects for my course "Introduction to Artificial Intelligence".
 
-## Simple agents ##
+## Random action agents ##
 
-* Random action agent for cart pole 
+* Random action agent for cart pole
+
+## Linear model for action selection ##
+ 
 * Random search for linear model agent for cart pole
-* Hill climbing search for linear model agent for cart pole (not better than random search for this particular problem)
+** Hill climbing search for linear model agent for cart pole (not better than random search for this particularly simple problem)
+* Random search for liner model agent for mountain car
 
 ## Tabular Q-learning ##
 
@@ -19,5 +23,5 @@ Implementation using numpy.
 
 Implementation using TensorFlow.
 
-* Neural network Q-learning for cart pole (work in progress)
-* Neural network Q-learning for mountain car (work in progress)
+* Neural network Q-learning for cart pole 
+* Neural network Q-learning for mountain car 
