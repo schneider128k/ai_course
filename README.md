@@ -23,13 +23,13 @@ The notebooks implement tabular q-learning using numpy.
 
 ## Simple linear model and convolutional neural network for recognizing hand-written digits ##
 
-The first notebook implements a simple linear model for recognizing hand-written digits with TensorFlow. I want to briefly introduce neurals network and TensorFlow in the context of a simple task in supervised learning. 
+The first notebook implements a simple linear model for recognizing hand-written digits in the MNIST data set with TensorFlow. I want to briefly introduce neurals networks and TensorFlow in the context of this basic task in supervised learning.  
 
-Once you become more familiar with neural networks and TensorFlow, I will show how to use neural networks approximate q-values in reinforcement learning.
+Once we become more familiar with neural networks and TensorFlow, I will show how to use neural networks to approximate q-values for simple reinforcement learning tasks such as cartpole and mountain car.
 
-The second notebook implements a convolutional neural network for recognizing hand-written digits.
+The second notebook implements a convolutional neural network for recognizing hand-written digits. We need to use convolutional neural networks to approximate q-values for more advanced tasks such as playing Atari games.
 
-Note that this is going to be a very brief introduction to neural networks and TensorFlow. We are going to have an entire class on these topics next semester.
+Note that this is going to be a very brief introduction to neural networks and TensorFlow. I am going to be teaching an entire class on deep neural networks and TensorFlow in Spring 2019.
 
 ## Q-learning with shallow neural networks ##
 
