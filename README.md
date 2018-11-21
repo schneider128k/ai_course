@@ -31,6 +31,10 @@ The second notebook implements a convolutional neural network for recognizing ha
 
 Note that this is going to be a very brief introduction to neural networks and TensorFlow. I am going to be teaching an entire class on deep neural networks and TensorFlow in Spring 2019.
 
+## Cross entropy method policy learning ##
+
+* Cross entropy method policy learning for cart pole
+
 ## Q-learning with shallow neural networks ##
 
 The notebooks implement q-learning with neural networks using TensorFlow.
