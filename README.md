@@ -2,6 +2,9 @@
 
 This is a collection of simple reinforcement learning projects for my course "Introduction to Artificial Intelligence".
 
+## Taxonomy of reinforcement learning methods ##
+https://github.com/schneider128k/reinforcement/blob/master/taxonomy_rl_methods.md
+
 ## Random action agents ##
 
 * Random action agent for cart pole
