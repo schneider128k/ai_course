@@ -18,7 +18,7 @@ At the end of the semester, I introduced [OpenAI gym](https://gym.openai.com/) a
 
 I also showed students how to use dense and convolution neural network for recognizing digits in the MNIST data set. 
 
-The code for this part of the course is contained in this repo.
+The code for the second part of the course is contained in this repo.
 
 ---
 
