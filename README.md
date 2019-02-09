@@ -1,3 +1,18 @@
+I taught a course on artificial intelligence in Fall 2018.
+
+I used the materials (slides and programming assignments) from [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html). 
+Using these materials, I covered the following topics:
+- Uninformed search
+- Informed search
+- Adverseral search
+- Expectimax search
+- Markov decision processes
+- Reinforcement learning
+
+At the end of the semester, I introduced [OpenAI gym](https://gym.openai.com/) and showed the students how to solve simple environments such as frozen late, taxi, cartpole, mountain car using tabular q-learning and q-learning combined with simple neural networks and a reply buffer. The code for this part of the course is in this repo.
+
+---
+
 # Reinforcement learning #
 
 This is a collection of simple reinforcement learning projects for my course CAP 5636 Advanced Artificial Intelligence in Fall 2018.
