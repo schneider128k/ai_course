@@ -2,8 +2,8 @@
 
 I taught a course on artificial intelligence in Fall 2018.
 
-I used the materials (slides and programming assignments) from [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html). 
-Using these materials, I covered the following topics:
+At the beginning of the semester, I used the materials (slides and programming assignments) from [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html). Using these materials, I covered the following topics:
+
 - Uninformed search
 - Informed search
 - Adverseral search
@@ -12,6 +12,7 @@ Using these materials, I covered the following topics:
 - Reinforcement learning
 
 At the end of the semester, I introduced [OpenAI gym](https://gym.openai.com/) and showed the students how to solve 
+
 - simple environments such as frozen late and taxi using tabular q-learning and 
 - cartpole and mountain car using q-learning combined with very simple neural networks and an experience reply buffer. 
 
