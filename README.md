@@ -11,7 +11,9 @@ Using these materials, I covered the following topics:
 - Markov decision processes
 - Reinforcement learning
 
-At the end of the semester, I introduced [OpenAI gym](https://gym.openai.com/) and showed the students how to solve simple environments such as frozen late and taxi using tabular q-learning and cartpole and mountain car q-learning combined with very simple neural networks and an experience reply buffer. I also showed students how to use dense and convolution neural network for recognizing digits in the MNIST data set. The code for this part of the course is contained in this repo.
+At the end of the semester, I introduced [OpenAI gym](https://gym.openai.com/) and showed the students how to solve 
+- simple environments such as frozen late and taxi using tabular q-learning and 
+- cartpole and mountain car using q-learning combined with very simple neural networks and an experience reply buffer. I also showed students how to use dense and convolution neural network for recognizing digits in the MNIST data set. The code for this part of the course is contained in this repo.
 
 ---
 
